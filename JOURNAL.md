@@ -1,7 +1,7 @@
 ---
 title: "Two Way Mirror Detector"
-github: "your repo"
-description: "Describe your project in a short sentence!"
+github: "https://github.com/YoYo-Head/HardwareSwap2026"
+description: "This project will be a solder board that can detect whether a mirror is a 2-way mirror."
 created_at: "2026-11-19"
 ---
 
